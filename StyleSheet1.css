@@ -47,23 +47,28 @@ li {
         text-decoration: none;
     }
 
-        /* Change the link color to #111 (black) on hover */
+        
         li a:hover {
             background-color: #111;
         }
 
 
-
+.pars {
+    background: rgba(2, 48, 46, 0.4);
+    margin: 3% 7%;
+}
 .lorem {
     font-size: 3vw;
-    margin: 5% 9%;
-    background: rgba(2, 48, 46, 0.4);
+    margin: 5% 7%;
+    padding: 1%;
+    
     color: #FC4445;
+    
 }
 .pic {
     height:300px;
     width:300px;
-    margin:2% 1% 0% 2%;
+    margin-right:2%;
     float:left;
 }
 .gag{
